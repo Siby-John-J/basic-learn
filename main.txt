@@ -1,0 +1,6 @@
+function add() {
+	return a + b
+} 
+
+recreated without tracking
+new field added
